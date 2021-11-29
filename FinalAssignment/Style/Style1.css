@@ -1,0 +1,126 @@
+body{
+    margin-right: 10%;
+    margin-left: 10%;
+    padding: 0;
+    text-align: left;
+    font-family: sans-serif;
+}
+input:hover
+{
+    border: 1px solid lightsalmon;
+}
+textarea:focus
+{
+    border: 1px solid lightsalmon;
+}
+.third td {
+    line-height: 40x;
+}
+
+.first{
+    background-size:100%;
+    background-image: url(../Images/Vector-1.png); 
+    background-repeat: no-repeat;
+    background-position: bottom;    
+}
+.sales{
+    margin:61.667px;
+    width: 35%;
+    float: left;
+    text-align: left;
+    overflow: hidden;
+}
+.sales img{
+    width:60px;
+    height:55.1px;
+}
+.sales h1{
+    color: #283a5e;
+    font-size: 25px;
+    line-height: 30px;
+}
+.sales p{
+    font-size: 16px;
+    line-height: 24px;
+}
+.first span{
+    position: relative;
+    float: left;
+    left: 40px;
+    top: 50px;
+    margin-right: 2em;
+    padding: 8px;
+    overflow: hidden;
+}
+.chat{
+    position:fixed;
+    
+    float: right;
+    right: 20px;
+    bottom: 20px;
+} 
+.sales{
+    
+    width: 50%;
+    
+}
+.sales ul{
+    list-style: none;
+   
+
+}
+
+.first .sales1{
+    float: right;
+
+}
+.third h1{
+    text-align: center;
+}
+.third td{
+    border-right: 6 px;
+}
+.third table{
+    border-spacing: 3em;
+}
+.third span{
+    width: 80%;
+    height: 80%;
+    text-align: center;
+    display: inline;
+}
+.final h1{
+    text-align: center;
+    /* display: inline; */
+} 
+.final ul{
+    list-style: none;
+    
+}
+.final li{
+    float: left;
+   
+    line-height: 200%;
+}
+.final span{
+    margin-left:30px ;
+}
+.final .lis{
+    margin-left: 60px ;
+}
+.final .lit{
+    margin-left: 370px;
+}
+.final .cit{
+    margin-left: 60px;
+}
+.final .ch{
+    text-align: center;
+}
+.final .hh{
+    width:25px;
+    height:25px;
+    padding-top: 20px;
+    margin-right: 10px;
+}
+
